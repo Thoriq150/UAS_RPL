@@ -7,6 +7,9 @@ Web untuk Toko Retail ini ada dua tampilan yangpertama untuk Admin yang Kedua un
 
 ## Untuk Tampilan User
 ![Screenshot (325)](https://github.com/Thoriq150/UAS_RPL/assets/115950790/9a53232c-33a5-43e7-ae04-87a61b496a07)
+![Screenshot (328)](https://github.com/Thoriq150/UAS_RPL/assets/115950790/375f6ac0-1f3d-4011-8b45-673c0ee2ba1b)
+![Screenshot (329)](https://github.com/Thoriq150/UAS_RPL/assets/115950790/05e2af78-7c1f-493f-b6b6-8c590b827d78)
+
 
 # Foto Diagram
 ## Use Case Model
